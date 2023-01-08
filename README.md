@@ -10,4 +10,5 @@ Once the system is trained, it can be deployed in a real-world setting, such as 
 In addition to face recognition, the system could also be configured to perform other tasks, such as identifying individuals who are not authorized to access certain areas or resources, or triggering alerts if certain individuals are detected in specific locations.
 
 
+https://user-images.githubusercontent.com/84846021/211201398-c8b6de07-12d8-4c1a-8310-e1c0fac3bac5.mp4
 
